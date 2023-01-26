@@ -1,0 +1,6 @@
+﻿  Project_Bartosz_Kała.cpp
+C:\Users\lenovo\Desktop\Project\Project_Bartosz_Kała\Project_Bartosz_Kała\Funkcje_gry.h(303,27): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\lenovo\Desktop\Project\Project_Bartosz_Kała\Project_Bartosz_Kała\Funkcje_gry.h(465,23): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\lenovo\Desktop\Project\Project_Bartosz_Kała\Project_Bartosz_Kała\Funkcje_gry.h(518,27): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\lenovo\Desktop\Project\Project_Bartosz_Kała\Project_Bartosz_Kała\Funkcje_gry.h(624): warning C4715: "losowanie”: niewszystkie ścieżki kodu zwracają wartość
+  Project_Bartosz_Kała.vcxproj -> C:\Users\lenovo\Desktop\Project\Project_Bartosz_Kała\x64\Debug\Project_Bartosz_Kała.exe

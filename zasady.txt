@@ -1,0 +1,68 @@
+Zasday gry w "Wisielca"
+
+1. Obsługa menu
+
+Użytkownikowi jest wyświetlana lista z dostępnymi opcjami do wyboru
+
+1. Zasady gray
+2. Gra z komputerem
+3. Gra ze znajomym
+4. Rezygnacja  z gry
+
+Użytkowinik powinien wpisać numer 1-4, gdzie wpisany numer oznacza dzaiłanie, które nastepnie zostanie wykonane
+
+
+
+
+2. Gra z komputerem
+
+
+Twoim zadaniem jest odganięcie słowa, które zostało wygenerowane przez komputer. Litery słowa są ukryte pod podtacią :  _ , 
+
+Musisz wpisać jeden ze znkaów z podanego alfabetu :
+
+ { a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,r,s,t,u,w,x,y,z}
+
+Jeśli znak znajduje się w słowie, zostanie on odsłonięty, w przeciwym przypadku tracisz 1 z dostepnych 7 szans na pomyłkę. 
+Przy kolejnych pomyłkach zostanie wyswietlony odsłaniający się wizerunek wisielca.
+
+Jeśli stracisz wszystkie szanse i cały wizerunek wisielca zostanie odsłonięty; przegrywasz.
+Jeśli wszystkie znaki: _  zsotaną zastapione literą; odgadłeś hasło; wygrywasz.
+
+
+
+3. Gra ze znajomym 
+
+Na początku użytkownik jest proszony o wpisanie słowa, zbudowanego przy urzyciu alfabetu:
+
+{ a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,r,s,t,u,w,x,y,z}
+
+Jeśli znak jest niepoprawny, użytkownik bedzie zmuszony podać wyraz jeszcze raz. Następnie twoim zadaniem jest odganięcie słowa. 
+Litery słowa są ukryte pod podtacią :  _ , 
+
+Musisz wpisać jeden ze znkaów z podanego alfabetu :
+
+ { a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,r,s,t,u,w,x,y,z}
+
+Jeśli znak znajduje się w słowie, zostanie on odsłonięty, w przeciwym przypadku tracisz 1 z dostepnych 7 szans na pomyłkę. 
+Przy kolejnych pomyłkach zostanie wyswietlony odsłaniający się wizerunek wisielca.
+
+Jeśli stracisz wszystkie szanse i cały wizerunek wisielca zostanie odsłonięty; przegrywasz.
+Jeśli wszystkie znaki: _  zsotaną zastapione literą; odgadłeś hasło; wygrywasz.
+
+
+4. Rezygnacja z gry
+
+Po zakończeniu rozgrywki, zostaniesz poproszony o dokonanie wyboru.
+
+Wpisz :
+
+M-przejście do menu
+
+G- kontynułuj aktualną rozgrywkę
+
+R- reyzgnacja z gry
+
+
+
+
